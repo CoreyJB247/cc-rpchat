@@ -40,6 +40,7 @@ CC RP Chat is **still in development**, and it is not recommended for use in pro
 - Join/Leave messages
 - Discord Integration (webhooks)
 - Free Forever
+- Now has Global ME, DO and Leo Commands
 
 ### 🛠 Installation
 Official guide to installing **CC RP Chat**.
